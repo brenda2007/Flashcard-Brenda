@@ -6,6 +6,8 @@
 
 body {
     background: url('img/Paisagem-1.jpg');
+    background-size: 100%;
+    background-repeat: no-repeat;
     font-family: Bai Jamjuree;
 }
 
